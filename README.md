@@ -13,7 +13,8 @@ This tutorial is about taking an existing package, re-building it, applying chan
 
 [Homepage](https://wiki.debian.org/BuildingTutorial)
 
-## Topics
+**Topics**
+
 * [x] [Introduction](https://wiki.debian.org/BuildingTutorial#Introduction)
 * [X] [Requirements](https://wiki.debian.org/Packaging/Pre-Requisites/Virtual-Machine)
 * [x] [The packaging workflow](https://wiki.debian.org/BuildingTutorial#The_packaging_workflow)
@@ -26,7 +27,8 @@ This tutorial is about taking an existing package, re-building it, applying chan
 * [ ] [Building the source package](https://wiki.debian.org/BuildingTutorial#Building_the_source_package)
 * [ ] [Sending your changes to the BTS](https://wiki.debian.org/BuildingTutorial#Sending_your_changes_to_the_BTS)
 
-Conclusions
+**Conclusions**
+
 * [ ] [That's it, get ready for the next package](https://wiki.debian.org/BuildingTutorial#That.27s_it.2C_get_ready_for_the_next_package)
 * [ ] [Feedback](https://wiki.debian.org/BuildingTutorial#Feedback)
 * [ ] [Questions and Answers](https://wiki.debian.org/BuildingTutorial#Questions_and_Answers)
