@@ -24,13 +24,13 @@ This tutorial is about taking an existing package, re-building it, applying chan
 * [x] [Edit the source code](https://wiki.debian.org/BuildingTutorial#Edit_the_source_code)
 * [x] [Building the modified package](https://wiki.debian.org/BuildingTutorial#Building_the_modified_package)
 * [x] [Installing and testing the modified package](https://wiki.debian.org/BuildingTutorial#Installing_and_testing_the_modified_package)
-* [ ] [Building the source package](https://wiki.debian.org/BuildingTutorial#Building_the_source_package)
-* [ ] [Sending your changes to the BTS](https://wiki.debian.org/BuildingTutorial#Sending_your_changes_to_the_BTS)
+* [x] [Building the source package](https://wiki.debian.org/BuildingTutorial#Building_the_source_package)
+* [x] [Sending your changes to the BTS](https://wiki.debian.org/BuildingTutorial#Sending_your_changes_to_the_BTS)
 
 **Conclusions**
 
-* [ ] [That's it, get ready for the next package](https://wiki.debian.org/BuildingTutorial#That.27s_it.2C_get_ready_for_the_next_package)
-* [ ] [Feedback](https://wiki.debian.org/BuildingTutorial#Feedback)
-* [ ] [Questions and Answers](https://wiki.debian.org/BuildingTutorial#Questions_and_Answers)
-* [ ] [See also](https://wiki.debian.org/BuildingTutorial#See_also)
+* [x] [That's it, get ready for the next package](https://wiki.debian.org/BuildingTutorial#That.27s_it.2C_get_ready_for_the_next_package)
+* [x] [Feedback](https://wiki.debian.org/BuildingTutorial#Feedback)
+* [x] [Questions and Answers](https://wiki.debian.org/BuildingTutorial#Questions_and_Answers)
+* [x] [See also](https://wiki.debian.org/BuildingTutorial#See_also)
 
